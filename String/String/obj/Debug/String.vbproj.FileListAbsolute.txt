@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi1-week4\String\String\bin\Debug\String.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi1-week4\String\String\bin\Debug\String.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi1-week4\String\String\bin\Debug\String.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi1-week4\String\String\bin\Debug\String.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi1-week4\String\String\obj\Debug\String.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi1-week4\String\String\obj\Debug\String.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi1-week4\String\String\obj\Debug\String.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi1-week4\String\String\obj\Debug\String.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi1-week4\String\String\obj\Debug\String.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week4\Apriyandi1-week4\String\String\obj\Debug\String.pdb
